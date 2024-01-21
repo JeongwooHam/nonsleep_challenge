@@ -1,6 +1,7 @@
 ## 😇 MOBI_NONSLEEP_CHALLENGE
 
 ### 🛠️ Stacks
+
 리니어, 스타일X, pnpm, 모노레포, prizmaORM
 
 ### 👥 Members
@@ -31,7 +32,7 @@
       Jane 👾
     </th>
     <th>
-      Zero 
+      Zero 🐈‍⬛
     </th>
   </tr>
 </table>
