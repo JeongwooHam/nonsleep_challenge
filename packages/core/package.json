@@ -4,7 +4,6 @@
   "private": true,
   "files": [
     "eslintrc.js",
-    "tsconfig-next.json",
     ".prettierrc.js"
   ],
   "devDependencies": {
