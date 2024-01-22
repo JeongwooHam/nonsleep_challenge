@@ -14,10 +14,12 @@ module.exports = {
     "react",
     "react-hooks",
     "prettier",
+    "@stylexjs",
   ],
   rules: {
     semi: "off",
     "simple-import-sort/imports": "error",
     "simple-import-sort/exports": "error",
+    "@stylexjs/valid-styles": "error",
   },
 };

@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@mono/core": "workspace:^",
-    "@mono/libs": "workspace:^",
     "@mono/ui": "workspace:^",
     "next": "14.1.0",
     "react": "^18",
