@@ -2,6 +2,9 @@
   "name": "@mono/core",
   "version": "0.1.0",
   "private": true,
+  "scripts": {
+    "lint": "lint"
+  },
   "files": [
     "eslintrc.js",
     ".prettierrc.js"
