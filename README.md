@@ -1,8 +1,16 @@
 ## 😇 MOBI_NONSLEEP_CHALLENGE
 
+### 🗃️ Documents
+
+- [notion](https://unleashed-globe-e09.notion.site/Non-Sleep-Challenge-be7c695fc2c545da94e5b6935c6c13d1?pvs=4)
+
 ### 🛠️ Stacks
 
-리니어, 스타일X, pnpm, 모노레포, prizmaORM
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
+<img src="https://img.shields.io/badge/linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white">
+<img src="https://img.shields.io/badge/stylex-CE5AD5?style=for-the-badge&logo=stylex&logoColor=white">
 
 ### 👥 Members
 
